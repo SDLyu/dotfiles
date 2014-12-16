@@ -69,6 +69,12 @@
 		fi \
 	}; f"
 
+	# Alias of checkout command
+	co = checkout
+
+	# Alias of branch command
+	br = branch
+
 [apply]
 
 	# Detect whitespace errors when applying a patch
